@@ -1,0 +1,5 @@
+---
+cpu_credit_balance:
+  enabled: True
+  warning_threshold: 100
+  critical_threshold: 20
