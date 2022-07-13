@@ -1,0 +1,14 @@
+{
+  "Accounts": [
+    {
+      "Id": "111111111111",
+      "Name": "MyUAT",
+      "Status": "ACTIVE"
+    },
+    {
+      "Id": "222222222222",
+      "Name": "MyPROD",
+      "Status": "ACTIVE"
+    }
+  ]
+}

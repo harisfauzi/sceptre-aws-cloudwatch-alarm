@@ -1,0 +1,3 @@
+---
+project_code: cwalarm
+region: {{ var.aws_region | default('us-west-2') }}
